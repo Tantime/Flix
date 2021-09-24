@@ -16,10 +16,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-fbea79d206c7.gif" width=250><br>
+<img class="animated-gif" src="https://i.imgur.com/qgdF8wY.gif" width=250 height=auto><br>
 
 ### Notes
-Using my knowledge of constraints in Android Studio and converting that to XCode proved to be difficult as the contraints did not all work the way I expected.
+Using my knowledge of constraints in Android Studio and converting that to XCode proved to be difficult, as the contraints did not all work the way I expected.
 
 ---
 
