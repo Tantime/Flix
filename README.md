@@ -38,7 +38,7 @@ Using my knowledge of constraints in Android Studio and converting that to XCode
 
 ### App Walkthrough GIF
 
-<img src="https://submissions.us-east-1.linodeobjects.com/ios_university/gvtUx0ZE.gif" width=250><br>
+<img src="https://i.imgur.com/0kxN5LR.gif" width=250><br>
 
 ### Notes
 It's amazing to see how powerful Swift can be; with the right recipe, so much can be accomplished with minimal amounts of code.
